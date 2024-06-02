@@ -1,0 +1,14 @@
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\bin\Debug\net8.0\Calculator_grade.exe
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\bin\Debug\net8.0\Calculator_grade.deps.json
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\bin\Debug\net8.0\Calculator_grade.runtimeconfig.json
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\bin\Debug\net8.0\Calculator_grade.dll
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\bin\Debug\net8.0\Calculator_grade.pdb
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.AssemblyInfoInputs.cache
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.AssemblyInfo.cs
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.csproj.CoreCompileInputs.cache
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.dll
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\refint\Calculator_grade.dll
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.pdb
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\Calculator_grade.genruntimeconfig.cache
+C:\Users\FIXya TECH\RiderProjects\Calculator_grade\Calculator_grade\obj\Debug\net8.0\ref\Calculator_grade.dll
