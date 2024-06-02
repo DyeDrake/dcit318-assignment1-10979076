@@ -21,7 +21,7 @@ class TheaterTicket
         }
         else
         {
-            Console.WriteLine("Invalid input, try again.");
+            Console.WriteLine("Invalid input, please try again.");
         }
     }
 }
