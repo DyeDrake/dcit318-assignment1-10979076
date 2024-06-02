@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_grade", "Calcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theater_ticket_app", "Theater_ticket_app\Theater_ticket_app.csproj", "{CC57FF40-B126-4249-9EED-7A4062134371}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleChecker", "TriangleChecker\TriangleChecker.csproj", "{6DEEF710-6D50-4A8B-966F-280C1F4B4589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{CC57FF40-B126-4249-9EED-7A4062134371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC57FF40-B126-4249-9EED-7A4062134371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC57FF40-B126-4249-9EED-7A4062134371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEEF710-6D50-4A8B-966F-280C1F4B4589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEEF710-6D50-4A8B-966F-280C1F4B4589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEEF710-6D50-4A8B-966F-280C1F4B4589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEEF710-6D50-4A8B-966F-280C1F4B4589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

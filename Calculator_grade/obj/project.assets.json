@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIXya TECH\\RiderProjects\\Calculator_grade\\Calculator_grade\\Calculator_grade.csproj",
+      "projectUniqueName": "C:\\Users\\FIXya TECH\\RiderProjects\\dcit318-assignment1-10979076\\Calculator_grade\\Calculator_grade.csproj",
       "projectName": "Calculator_grade",
-      "projectPath": "C:\\Users\\FIXya TECH\\RiderProjects\\Calculator_grade\\Calculator_grade\\Calculator_grade.csproj",
+      "projectPath": "C:\\Users\\FIXya TECH\\RiderProjects\\dcit318-assignment1-10979076\\Calculator_grade\\Calculator_grade.csproj",
       "packagesPath": "C:\\Users\\FIXya TECH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIXya TECH\\RiderProjects\\Calculator_grade\\Calculator_grade\\obj\\",
+      "outputPath": "C:\\Users\\FIXya TECH\\RiderProjects\\dcit318-assignment1-10979076\\Calculator_grade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FIXya TECH\\AppData\\Roaming\\NuGet\\NuGet.Config"

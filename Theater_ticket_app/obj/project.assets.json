@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIXya TECH\\RiderProjects\\Calculator_grade\\Theater_ticket_app\\Theater_ticket_app.csproj",
+      "projectUniqueName": "C:\\Users\\FIXya TECH\\RiderProjects\\dcit318-assignment1-10979076\\Theater_ticket_app\\Theater_ticket_app.csproj",
       "projectName": "Theater_ticket_app",
-      "projectPath": "C:\\Users\\FIXya TECH\\RiderProjects\\Calculator_grade\\Theater_ticket_app\\Theater_ticket_app.csproj",
+      "projectPath": "C:\\Users\\FIXya TECH\\RiderProjects\\dcit318-assignment1-10979076\\Theater_ticket_app\\Theater_ticket_app.csproj",
       "packagesPath": "C:\\Users\\FIXya TECH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIXya TECH\\RiderProjects\\Calculator_grade\\Theater_ticket_app\\obj\\",
+      "outputPath": "C:\\Users\\FIXya TECH\\RiderProjects\\dcit318-assignment1-10979076\\Theater_ticket_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FIXya TECH\\AppData\\Roaming\\NuGet\\NuGet.Config"

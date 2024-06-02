@@ -17,7 +17,7 @@ class TheaterTicket
                 >= 65 => 7,
                 _ => 10
             };
-            Console.WriteLine("Your ticket price is " +"GHS."+ ticketPrice);
+            Console.WriteLine("Your ticket price is " +"GHS"+ ticketPrice);
         }
         else
         {
